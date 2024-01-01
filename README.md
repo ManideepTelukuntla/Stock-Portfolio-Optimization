@@ -37,20 +37,15 @@ To create a stock portfolio that mimics the NASDAQ-100 index, balancing tracking
 ## Data Collection and Sources
 
 **Datasets Overview:**  
-This project uses four CSV files located in the Data folder. These files contain stock data from the NASDAQ-100 for the years 2019 and 2020. The datasets are:
+This project uses two CSV files located in the Data folder. These files contain stock data from the NASDAQ-100 for the years 2019 and 2020. The datasets are:
 
 - `stocks2019.csv`
 - `stocks2020.csv`
-- `stocks2019Test.csv` (For model evaluation)
-- `stocks2020Test.csv` (For model evaluation)
 
 **File Structure:**  
 - The first column lists the date.
 - The second column shows the index price (NDX).
 - Columns 3-102 represent the prices of individual stocks.
-
-**Purpose of Test Files:**  
-The `test` files (`stocks2019Test.csv` and `stocks2020Test.csv`) are specifically for testing the models against out-of-sample or unseen data to evaluate their performance.
 
 ## Usage/How to Run
 Utilize the `Stock-Portfolio-Optimization.ipynb` to assess and optimize your stock portfolio. Ensure your data adheres to the structure mentioned above, or make slight modifications to suit your dataset's structure. Simply substitute your data and execute the code. If your data's structure diverges significantly from the original, additional code adjustments may be necessary.
