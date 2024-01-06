@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/ManideepTelukuntla/Stock-Portfolio-Optimization/blob/main/Images/Stock-Portfolio-Optimization.svg" width="800" height="600" alt="Stock Portfolio Optimization">
   <br>
-  <p>Image by Freepik</p>
+  <p>Image by <a href="https://www.freepik.com/free-vector/gradient-stock-market-concept_19931742.htm#query=stock%20portfolio%20illustration&position=21&from_view=search&track=ais&uuid=116d69f3-c705-4bb1-a54d-4b4268f4bd90">Freepik</a></p>
 </div>
 
 
