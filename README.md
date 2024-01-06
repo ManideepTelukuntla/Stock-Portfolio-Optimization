@@ -1,5 +1,12 @@
 # Stock Portfolio Optimization
 
+<div align="center">
+  <img src="https://github.com/ManideepTelukuntla/Stock-Portfolio-Optimization/blob/main/Images/Stock-Portfolio-Optimization.svg" width="800" height="600" alt="Stock Portfolio Optimization">
+  <br>
+  <p>Image by Freepik</p>
+</div>
+
+
 ## Table of Contents
 1. [Introduction/Overview](#introductionoverview)
 2. [Objective](#objective)
@@ -33,6 +40,8 @@ To create a stock portfolio that mimics the NASDAQ-100 index, balancing tracking
 ## 5. File Descriptions
 - **`Stock-Portfolio-Optimization.ipynb`**: This Jupyter Notebook contains Python code for improving and analyzing stock portfolios.
 - **`Stock-Portfolio-Optimization.pdf`**: A comprehensive report explaining the methodologies, analytical processes, and valuable insights pertaining to stock portfolio optimization.
+- **`Data`**: Folder with datasets used in this project.
+- **`Images`**: Folder with images pertaining to this project.
 
 ## 6. Data Collection and Sources
 
